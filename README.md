@@ -20,7 +20,8 @@ Game of Thrones character interaction network
 Facebook combined dataset from SNAP (Stanford Network Analysis Project)
 
 🔧 Tools Used:
-Python 🐍
+
+Python 
 
 NetworkX
 
